@@ -6,8 +6,6 @@
 
 > Don't look at it for too long 😡
 
-<a href="https://ibb.co/q3BWTwW5">
-  <img src="https://i.ibb.co/ZpdYqCYm/Cerydra-full-4523743.jpg" alt="Cerydra-full-4523743" border="5">
-</a>
+[![my wife](https://i.postimg.cc/8cz2kMqD/illust-132880594-20250719-212126.png)](https://hsr.hoyoverse.com)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
